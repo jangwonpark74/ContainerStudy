@@ -6,3 +6,6 @@
 ## Understand Linux for Container 
  - [What is chroot is for](https://lwn.net/Articles/252794/)
  - [Namespace man page ](http://man7.org/linux/man-pages/man7/namespaces.7.html)
+
+## Azure Managed Container
+ - [Azure managed kubernetes](https://hub.packtpub.com/implementing-azure-managed-kubernetes-and-azure-container-service-tutorial/)
